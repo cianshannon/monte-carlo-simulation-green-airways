@@ -5,6 +5,7 @@ This repository contains a Monte Carlo simulation model developed for Green Airw
 ## Getting Started
 
 **Some introductory information on the model:**
+
 Green Airways has **3 flights from Dublin to London each day** (apart from Dec 25th)
 
 The number of **no-shows** and **estimated Passenger Demand** for each flight over the past 12 months is given in ***Data Sheet A***. 
